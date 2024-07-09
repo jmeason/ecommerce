@@ -13,10 +13,11 @@ Tag.init(
       primaryKey: true,
       autoIncrement: true,
     },
-  },
-  tag_name, { //why is it , instead of :
+  
+  tag_name: { //why is it , instead of :
     type: DataTypes.STRING,
   },
+}, 
   {
     sequelize,
     timestamps: false,
