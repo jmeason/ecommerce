@@ -10,4 +10,4 @@ This is a backend for an e-commerce application that manages products, categorie
 ## Usage
 Using Insomnia, you can interact with the API  Endpoints
 # Walkthrough Video 
-
+[!https://app.screencastify.com/v3/watch/gEG1S5k6Sc6PjH8ztXZU]
